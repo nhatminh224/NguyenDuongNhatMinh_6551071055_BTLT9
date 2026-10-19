@@ -1,0 +1,13 @@
+2026-10-19 09:52:30.783 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 1, SoTien: 35000, STK: ***6789
+2026-10-19 09:55:25.421 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 1, SoTien: 35000, STK: ***6789
+2026-10-19 09:56:46.063 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 1, SoTien: 35000, STK: ***6789
+2026-10-19 09:59:30.465 +07:00 [INF] LuuHoaDon: da commit MaHD 3
+2026-10-19 09:59:34.437 +07:00 [INF] LuuHoaDon: da dong MessageBox
+2026-10-19 09:59:34.439 +07:00 [INF] LuuHoaDon: da reset form
+2026-10-19 10:00:29.108 +07:00 [INF] LuuHoaDon: da commit MaHD 4
+2026-10-19 10:01:56.701 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 5, SoTien: 76000, STK: ***6789
+2026-10-19 10:02:03.975 +07:00 [INF] Đã lưu hóa đơn 5: Chuyển khoản, 76000 đ, 1 món
+2026-10-19 10:07:23.492 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 6, SoTien: 400000, STK: ***6789
+2026-10-19 10:08:14.267 +07:00 [INF] Đã lưu hóa đơn 6: Chuyển khoản, 400000 đ, 1 món
+2026-10-19 10:19:19.779 +07:00 [INF] Đã tạo VietQR cho HoaDon Temp 7, SoTien: 114000, STK: ***6789
+2026-10-19 10:20:35.886 +07:00 [INF] Đã lưu hóa đơn 7: Chuyển khoản, 114000 đ, 1 món
